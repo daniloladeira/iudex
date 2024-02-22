@@ -1,2 +1,2 @@
 # iudex
-<h1>POO - ( Academic/Educational ) pourposes.</h1>
+<h2>POO - ( Academic/Educational ) pourposes.</h2>
