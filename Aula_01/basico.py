@@ -1,3 +1,3 @@
-nome = input("Digite seu primeiro nome")
+nome = input("Digite seu primeiro nome:")
 
-print("Bem vindo ao python", nome)
+print("Bem vindo ao python,", nome)
