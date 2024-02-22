@@ -1,2 +1,2 @@
 # iudex
-POO - ( Academic/Educational ) pourposes 
+POO - ( Academic/Educational ) pourposes.
